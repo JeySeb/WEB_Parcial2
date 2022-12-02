@@ -1,5 +1,12 @@
 {
-
+"title":"Bandas Musicales",
+"nombre":"Nombre",
+"pais":"País",
+"genero":"Género",
+"fundacion":"Fundación",
+"antiguo":"La banda más antigua es",
+"antiguo2":"y fue fundada hace",
+"antiguo3":"años."
 
 
 }

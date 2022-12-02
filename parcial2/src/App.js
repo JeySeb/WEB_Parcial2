@@ -1,16 +1,14 @@
 import React from 'react';
 import './App.css';
 import { BrowserRouter, Routes, Route } from "react-router-dom";
-import Elementos from "./Elementos";
-import ElementosDetail from './ElementosDetail';
+import Bandas from "./Bandas";
 
 function App() {
   return (
     <div className="App">
     <BrowserRouter>
         <Routes>
-          <Route path="/" element={<Elementos />} />
-          <Route path="/elementos/:elementoId" element={<ElementosDetail/>} />
+          <Route path="/" element={<Bandas/>} />
         </Routes>
       </BrowserRouter>
     </div>

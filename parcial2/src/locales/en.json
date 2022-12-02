@@ -1,4 +1,12 @@
 {
-
-
- }
+    "title":"Musical Bands",
+    "nombre":"Name",
+    "pais":"Country",
+    "genero":"Genre",
+    "fundacion":"Foundation",
+    "antiguo":"The oldest band is",
+    "antiguo2":"and it was founded",
+    "antiguo3":"years ago."
+    
+    
+    }
